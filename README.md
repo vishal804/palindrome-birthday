@@ -1,0 +1,1 @@
+This app tells the users if their birthdates are Palindrome or not.
